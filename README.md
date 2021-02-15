@@ -1,4 +1,4 @@
-# Project 3 - *Evilgram*
+*Evilgram*
 
 **Evilgram** is a photo sharing app similar to Instagram but using Parse as its backend.  The only thing evil about it is its color theme.
 
